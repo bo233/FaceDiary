@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$USER_HOME$/Desktop/Emotion-master/.idea/Emotion-master.iml" filepath="$USER_HOME$/Desktop/Emotion-master/.idea/Emotion-master.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/FaceDiary.iml" filepath="$PROJECT_DIR$/.idea/FaceDiary.iml" />
     </modules>
   </component>
